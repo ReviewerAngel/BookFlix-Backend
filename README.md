@@ -33,7 +33,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-This app is build with Ruby on Rails and Postgresql.
+This app is built with Ruby on Rails and Postgresql.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -76,7 +76,7 @@ In order to run this project you need:
 
 ### Front-end Repository
 
-- Here is the link of the [Front-End](https://github.com/ReviewerAngel/BoxFlix-Frontend)
+- Here is the link to the [Front-End](https://github.com/ReviewerAngel/BookFlix-Frontend)
 
 ### Initial State of Kanban Board
 
