@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h1><b>HandyMate Backend 🏠️🛠️</b></h1>
+  <h1><b>BoxFlix Backend 🏠️🛠️</b></h1>
 
 </div>
 
@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 HandyMate-Backend <a name="about-project"></a> <a name="about-project"></a>
+# 📖 BoxFlix-Backend <a name="about-project"></a> <a name="about-project"></a>
 
-**HandyMate Backend** is a Rails project which gives the API for the HandyMate Frontend.
+**BoxFlix Backend** is a Rails project which gives the API for the BoxFlix Frontend.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,28 +72,28 @@ In order to run this project you need:
 
 ### App Screenshot
 
-![screenshot](https://github.com/PrantoshB/HandyMate-Backend/blob/dev/screenshot.jpg)
+![screenshot](#)
 
 ### Front-end Repository
 
-- Here is the link of the [Front-End](https://github.com/PrantoshB/HandyMate-Frontend)
+- Here is the link of the [Front-End](https://github.com/ReviewerAngel/BoxFlix-Frontend)
 
 ### Initial State of Kanban Board
 
-![kanban](https://user-images.githubusercontent.com/6623974/238977867-a2ed06f6-9726-4986-8cd5-add65c82d7d2.png)
+![kanban](#)
 
 ### Setup
 
 - Clone this repository to your desired folder:
 
 ```sh
-   git clone https://github.com/PrantoshB/HandyMate-Backend.git
+   git clone https://github.com/Lucash2022B/BoxFlix-Backend.git
 ```
 
 - Navigate into the cloned folder
 
 ```sh
-cd HandyMate-Backend
+cd BoxFlix-Backend
 ```
 
 ### Install
@@ -162,11 +162,11 @@ rspec ./spec/models
 - Twitter: [@royutsargo](https://twitter.com/royutsargo)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/utsargo-roy/)
 
-👤 **Prantosh Biswas**
+👤 **Lucash2022 Biswas**
 
-- GitHub: [@PrantoshB](https://github.com/PrantoshB)
+- GitHub: [@Lucash2022B](https://github.com/Lucash2022B)
 - Twitter: [@prantalks](https://twitter.com/prantalks)
-- LinkedIn: [Prantosh Biswas](https://linkedin.com/in/prantosh)
+- LinkedIn: [Lucash2022 Biswas](https://linkedin.com/in/Lucash2022)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +182,7 @@ rspec ./spec/models
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/PrantoshB/HandyMate-Backend/issues).
+Feel free to check the [issues page](https://github.com/Lucash2022B/BoxFlix-Backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
