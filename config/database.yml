@@ -17,6 +17,7 @@ test:
 
 production:
   <<: *default
-  database: BookFlix_production
-  username: BookFlix
-  password: <%= ENV["BookFlix_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
+  database: movierush_production
+  username: movierush
+  password: <%= ENV['MYSITE_DATABASE_PASSWORD'] %>
